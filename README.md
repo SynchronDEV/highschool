@@ -1,5 +1,5 @@
-# highschool
-Two projects I did during my time at KTH
+# kth-university
+Two projects I did during my first semester at KTH
 
 
 * Inventory stock emulator, allowing for addition and modification of items including their quantity and product number. 
