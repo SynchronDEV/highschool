@@ -1,5 +1,5 @@
 # highschool
-Some of the more complex projects I did during my short time at KTH.
+Two projects I did during my time at KTH
 
 
 * Inventory stock emulator, allowing for addition and modification of items including their quantity and product number. 
